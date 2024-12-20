@@ -1,8 +1,9 @@
-![png-transparent-cheshire-cat-of-alice-in-wonderland-illustration-cheshire-cat-alice-mad-hatter-white-rabbit-cat-watercolor-painting-mammal-animals-Photoroom](https://github.com/user-attachments/assets/7a26af3e-d082-4d53-85e5-6eabccbbd8f5)
+Приветствую всех!😊
 
-# Hi! ✌ 
-## My name is Alice and you are in my repository (unexpected, right?).
-## You won’t find any complex projects here yet 🤷‍♀️, but that’s just for now 😏.
+Меня зовут Алиса, и я увлечена миром видеоигр. Именно они вдохновили меня на изучение языков программирования, чтобы в будущем создавать свои собственные игры.
+
+В данный момент я осваиваю Python, C++ и Go. Параллельно я помогаю студентам в их обучении в онлайн-школах и университетах, стараясь объяснять сложные темы простым и доступным языком. Также я с радостью помогаю детям понять, что такое алгоритмы, и поддерживаю их в создании первых программ.
+
 
 <!--
 **NeMaliavka/NeMaliavka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
